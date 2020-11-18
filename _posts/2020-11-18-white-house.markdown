@@ -21,5 +21,3 @@ Staffer in charge of getting Trump off the couch and into the bathroom to brush 
 
 “This sucks. I’m out of a job”
 Animal trainer hired to keep Trump’s attention in briefings by offering him Jellybeans for good behavior
-
-![pencedoghouse](/assets/pence_doghouse.png)
