@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Test"
+author: Maize Report
+date: 2020-11-18
+image: /assets/test.jpeg
+---
+This is just a test.
